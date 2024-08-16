@@ -1,0 +1,8 @@
+[[https://csea-iitb.github.io/IITBreachers-wiki/2020/07/23/Introduction-To-Reverse-Engineering.html]]
+[[https://courses.cs.umbc.edu/undergraduate/CMSC313/fall04/burt_katz/lectures/Lect05/decisionMaking.html]]
+
+= Conversion =
+* decimal to binary
+  * echo "obase=16; 34" | bc
+* binary to decimal
+  * echo "ibase=2;obase=8;10" | bc
